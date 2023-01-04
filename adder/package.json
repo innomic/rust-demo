@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "scripts": {
+    "docker:build": "docker build --tag adder:latest -f . .."
+  }
+}

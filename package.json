@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "preinstall": "chmod u+x scripts/*",
+    "prerequisites": "scripts/prerequisites.sh",
+    "build": "scripts/build.sh",
+    "serve": "scripts/serve.sh"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "codeandstuff.package-json-upgrade",
+    "swellaby.rust-pack",
+    "statiolake.vscode-rustfmt",
+    "peterschmalfeldt.explorer-exclude"
+  ]
+}
